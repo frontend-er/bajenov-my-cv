@@ -6,7 +6,8 @@
 </head>
 <body>
 <div id="header">
-<p id="name">Bajenov Dmitry</p>
+<h1 id="name">Bajenov Dmitry</h1>
+<img src="https://png.pngtree.com/png-vector/20191104/ourmid/pngtree-businessman-avatar-cartoon-style-png-image_1953664.jpg" alt="">
          <a href="mailto:deepsukhwani@gmail.com" target="_blank"><p id="email">bajenov@gmail.com</p></a>
          <p id="contact">+373 79 05 39 54</p>
      </div>
