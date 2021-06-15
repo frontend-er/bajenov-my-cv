@@ -12,8 +12,6 @@
          <p id="contact">+373 79 05 39 54</p>
      </div>
      <div>
-     </div>
-     <div>
             <h3>CV Highlights</h3>
             <p>
             <ul>
@@ -40,7 +38,7 @@
                 <li>Interact with our engineering team to get software issues and bugs resolved</li>
                 <li>Occasionally interact with customers over Skype or telephone</li>
                 <li>Contribute ideas to the team on how customers can be delighted</li></ul>
-            </p>
+                </p>
             <h3 id="heading">Educational Qualifications</h3>
             <table>
                 <tr >
@@ -69,7 +67,7 @@
                 </tr>
                 <tr>
                     <td>B.Sc. (Hons) - Applied Accounting</td>
-                    <td>Oxford Brookes University</td>
+                    <td>Oxford Broogitzkes University</td>
                     <td>2:1 – Upper Second Class Honours</td>
                     <td>2012</td>
                 </tr>
