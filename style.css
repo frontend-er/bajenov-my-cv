@@ -1,0 +1,12 @@
+h1 {
+   color: red;
+}
+
+.section h1:last-child {
+   color: antiquewhite;
+}
+
+
+header {
+   margin: 0 auto;
+}
