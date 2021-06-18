@@ -2,6 +2,14 @@ div {
    border-radius: 5px;
 }
 
+ul {
+   list-style: none;
+}
+
+ul:first-child {
+   display: flex;
+}
+
 h3:first-child {
    margin-top: 50px;
 }
@@ -17,7 +25,6 @@ h3:first-child {
 
 span {
    padding: 5px;
-   margin-bottom: 10px;
    font-weight: bold;
    font-size: larger;
 }
